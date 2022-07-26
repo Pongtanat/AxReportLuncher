@@ -1,0 +1,308 @@
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\ExcelTemplate\SalesSummary.xls
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.exe.config
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.exe.manifest
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.application
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.XML
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.exe
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.pdb
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft.Dynamics.AX.ManagedInterop.dll
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\NewVersion.csproj.ResolveComReference.cache
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.FrmMain.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Material.frmMaterial.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Properties.Resources.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Invioce_Report.frmInvoiceReport.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Sales_Return.frmSalesReturn.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\NewVersion.csproj.GenerateResource.Cache
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.exe.manifest
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.application
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.exe
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.pdb
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\bin\Debug\Microsoft Dynamics AX Report.exe.config
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\bin\Debug\Microsoft Dynamics AX Report.XML
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\NewVersion.csproj.ResolveComReference.cache
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft Dynamics AX Report.exe
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft Dynamics AX Report.pdb
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\NewVersion.csprojResolveAssemblyReference.cache
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft_Dynamics_AX_Report.FrmMain.resources
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Material.frmMaterial.resources
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Properties.Resources.resources
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Invioce_Report.frmInvoiceReport.resources
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Sales_Return.frmSalesReturn.resources
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\QccProject\Microsoft Dynamics AX Report\NewVersion\obj\x86\Debug\NewVersion.csproj.GenerateResource.Cache
+D:\NewVersion\New Version\NewVersion\bin\Debug\Report.exe.config
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.csproj.ResolveComReference.cache
+D:\NewVersion\New Version\NewVersion\bin\Debug\ExcelTemplate\SalesSummary.xls
+D:\NewVersion\New Version\NewVersion\bin\Debug\Report.exe.manifest
+D:\NewVersion\New Version\NewVersion\bin\Debug\Report.application
+D:\NewVersion\New Version\NewVersion\bin\Debug\Report.exe
+D:\NewVersion\New Version\NewVersion\bin\Debug\Report.pdb
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.FrmMain.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.Material.frmMaterial.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.Properties.Resources.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.Report.Invioce_Report.frmInvoiceReport.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.Report.QuickSales_Report.frmQuickSales.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.Report.Sales_Return.frmSalesReturn.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.csproj.GenerateResource.Cache
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\Report.exe.manifest
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\Report.application
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\Report.exe
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\Report.pdb
+D:\NewVersion\New Version\NewVersion\bin\Debug\ExcelTemplate\QuickSales.xls
+D:\NewVersion\New Version\NewVersion\obj\x86\Debug\NewVersion.csprojResolveAssemblyReference.cache
+D:\NewVersion\New Version\NewVersion\bin\Debug\Report.xml
+D:\NewVersion\New Version\NewVersion\bin\Debug\Microsoft.Dynamics.AX.ManagedInterop.dll
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\ARReconcile\ARReconcile.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Budomari\Budomari.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialPurchase-PO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialPurchase-GMO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\PaymentGeneral\PaymentGeneralReport.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\Copy of MaterialPurchase-PO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialPurchase.xls
+D:\NewVersion\NewVersion\bin\Debug\bin\Debug\ExcelTemplate\QuickSales.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\SupportRP.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\SupportPO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\SupportGMO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByItem\SummarySaleByItemGMO.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByItem\SummarySaleByItem.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByGroupCode\DetailbyItemByGroupCode.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByGroupCode\DetailbyItemByGroupCodeGMO.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByLenType\SummarySaleByLentype.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\Losssuri.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialGroupMateCompare.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\StockCompare.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\SummaryOfMaterialUsedMO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceDetail\InvoiceDetail.xlsx
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceByDate\InvoiceByDate.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialBalanceByItem.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialCompare.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialRecei.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialReport-MO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialReports-RP.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialShipment.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MoveMentMaterialByItem.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\DetailOfMaterialUSED.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\SummaryMaterialBalance.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\QuickSale.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByCustomerAndCurrency\SalesByCurrency.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByCustomerAndCurrency\SalesByCustomerAndCurrency.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\GMO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\PO.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\RP.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleSummary\SalesSummary.xls
+D:\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Requisition\RequisitionList.xlsx
+D:\NewVersion\NewVersion\bin\Debug\All Reports.exe.config
+D:\NewVersion\NewVersion\bin\Debug\All Reports.exe.manifest
+D:\NewVersion\NewVersion\bin\Debug\All Reports.application
+D:\NewVersion\NewVersion\bin\Debug\All Reports.xml
+D:\NewVersion\NewVersion\bin\Debug\All Reports.exe
+D:\NewVersion\NewVersion\bin\Debug\All Reports.pdb
+D:\NewVersion\NewVersion\bin\Debug\Microsoft.Dynamics.BusinessConnectorNet.dll
+D:\NewVersion\NewVersion\bin\Debug\System.Data.dll
+D:\NewVersion\NewVersion\bin\Debug\Microsoft.Dynamics.AX.ManagedInterop.dll
+D:\NewVersion\NewVersion\bin\Debug\Microsoft.Dynamics.BusinessConnectorNet.xml
+D:\NewVersion\NewVersion\bin\Debug\AR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\CS\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\DA\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\DE\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\ES\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\ET\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\FI\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\FR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\HE\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\HU\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\IS\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\IT\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\JA\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\LT\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\LV\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\NB-NO\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\NL\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\PL\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\PT-BR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\RU\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\SV\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\TH\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\TR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\bin\Debug\ZH-HANS\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csprojResolveAssemblyReference.cache
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.ResolveComReference.cache
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.CompareBudomari.frmCompareBudomari.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.FrmMain.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Material.frmMaterial.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Properties.Resources.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.ARReconcile.frmARReconcile.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.InvioceReport.frmInvoiceReport.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.MaterialReport.frmMaterialReport.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.PaymentGeneralReport.frmPaymentGeneralReport.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.QuickSales_Report.frmQuickSales.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.RequisitionReport.FrmRequistion.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.Sales_Return.frmSalesReturn.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.GenerateResource.Cache
+D:\NewVersion\NewVersion\obj\x86\Debug\All Reports.TrustInfo.xml
+D:\NewVersion\NewVersion\obj\x86\Debug\All Reports.exe.manifest
+D:\NewVersion\NewVersion\obj\x86\Debug\All Reports.application
+D:\NewVersion\NewVersion\obj\x86\Debug\All Reports.exe
+D:\NewVersion\NewVersion\obj\x86\Debug\All Reports.pdb
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csprojAssemblyReference.cache
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.ResolveComReference.cache
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.RequisitionReport.frmAnnualReport.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.StockCard.frmStockCard.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.CompareBudomari.frmCompareBudomari.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.frmFind.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.SalesReturn.SummaryTransaction.frmReturnTransaction.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.FrmMain.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Material.frmMaterial.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Properties.Resources.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.APReport.frmAPReport.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.ARReconcile.frmARReconcile.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.InvioceReport.frmInvoiceReport.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.MaterialReport.frmMaterialReport.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.PaymentGeneralReport.frmPaymentGeneralReport.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.QuickSales_Report.frmQuickSales.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.RequisitionReport.FrmRequistion.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.SalesReturn.frmSalesReturn.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.GenerateResource.cache
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.CoreCompileInputs.cache
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\All Reports.TrustInfo.xml
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\All Reports.exe
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\All Reports.pdb
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\Copy of MaterialPurchase-PO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialPurchase.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\bin\Debug\ExcelTemplate\QuickSales.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\SupportRP.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\SupportPO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\SupportGMO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByItem\SummarySaleByItemGMO.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByItem\SummarySaleByItem.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByGroupCode\DetailbyItemByGroupCode.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByGroupCode\DetailbyItemByGroupCodeGMO.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByLenType\SummarySaleByLentype.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\Losssuri.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialGroupMateCompare.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\StockCompare.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\SummaryOfMaterialUsedMO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceDetail\InvoiceDetail.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialBalanceByItem.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialRecei.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialReport-MO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialShipment.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MoveMentMaterialByItem.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\DetailOfMaterialUSED.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\SummaryMaterialBalance.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\QuickSale.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByCustomerAndCurrency\SalesByCustomerAndCurrency.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\GMO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\PO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\QuickSales\RP.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleSummary\SalesSummary.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\ARReconcile\ARReconcile.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Budomari\Budomari.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialPurchase-PO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialPurchase-GMO.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\PaymentGeneral\PaymentGeneralReport.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\bin\Debug\ExcelTemplate\Material\DetailOfMaterialUSED.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceByCustomer\InvoiceReport.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceReportByItem\InvoiceReportByItem.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceReportByInvoice\InvoiceReportByInvoice.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SalesReturn\SalesReturnBook.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SalesReturn\SalesReturnByCustomer.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SalesReturn\SalesReturnByitem.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SalesReturn\SalesReturnRemain.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SummaryTransactionReturn\SummaryTransactionReturn.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\APReconcile\APReconcile.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\APReconcile\APSummary.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\StockCard\StockCard.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Requisition\Annual1.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Requisition\Annual.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\DetailOfMaterialUSEDp.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\InvoiceByDate\InvoiceByDate.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialCompare.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Material\MaterialReports-RP.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\SaleByCustomerAndCurrency\SalesByCurrency.xls
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ExcelTemplate\Requisition\RequisitionList.xlsx
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\All Reports.exe.config
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\All Reports.exe.manifest
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\All Reports.application
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\All Reports.exe
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\All Reports.pdb
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\adodb.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\Common.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\Microsoft.Dynamics.BusinessConnectorNet.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\System.Data.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\Microsoft.Dynamics.AX.ManagedInterop.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\stdole.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\Microsoft.Dynamics.BusinessConnectorNet.xml
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\AR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\CS\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\DA\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\DE\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ES\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ET\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\FI\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\FR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\HE\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\HU\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\IS\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\IT\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\JA\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\LT\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\LV\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\NB-NO\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\NL\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\PL\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\PT-BR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\RU\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\SV\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\TH\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\TR\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\bin\Debug\ZH-HANS\Microsoft.Dynamics.BusinessConnectorNet.resources.dll
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\All Reports.exe.manifest
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\All Reports.application
+D:\Source\Microsoft .NET\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.CopyComplete
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csprojAssemblyReference.cache
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.ResolveComReference.cache
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.POReamain.PORemain.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.ReceiveReport.ReceiveReport.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.RequisitionReport.frmAnnualReport.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.SaleByCustomerByGaikei.frmSaleByCustomerByGaikei.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.StockCard.frmStockCard.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.CompareBudomari.frmCompareBudomari.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.frmFind.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.SalesReturn.SummaryTransaction.frmReturnTransaction.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.FrmMain.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Material.frmMaterial.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Properties.Resources.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.APReport.frmAPReport.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.ARReconcile.frmARReconcile.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.InvioceReport.frmInvoiceReport.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.MaterialReport.frmMaterialReport.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.PaymentGeneralReport.frmPaymentGeneralReport.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.QuickSales_Report.frmQuickSales.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.RequisitionReport.FrmRequistion.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.SalesReturn.frmSalesReturn.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.GenerateResource.cache
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\NewVersion.csproj.CoreCompileInputs.cache
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\All Reports.TrustInfo.xml
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\All Reports.exe
+D:\Software\NewVersion\NewVersion\obj\x86\Debug\All Reports.pdb

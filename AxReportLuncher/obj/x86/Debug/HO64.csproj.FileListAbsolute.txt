@@ -1,0 +1,22 @@
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\ExcelTemplate\SalesSummary.xls
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.exe.config
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.exe.manifest
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.application
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.exe
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.pdb
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft.Dynamics.AX.ManagedInterop.dll
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Interop.AxClientLib.dll
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\HO64.csproj.ResolveComReference.cache
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.FrmMain.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Material.frmMaterial.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Properties.Resources.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Invioce_Report.frmInvoiceReport.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Sales_Return.frmSalesReturn.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft_Dynamics_AX_Report.Report.Sales_Sumary_Report.frmSalesSumary.resources
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\HO64.csproj.GenerateResource.Cache
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.exe.manifest
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.application
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.exe
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\Microsoft Dynamics AX Report.pdb
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\obj\x86\Debug\HO64.csprojResolveAssemblyReference.cache
+D:\Microsoft AX Report\Microsoft Dynamics AX Report\Microsoft Dynamics AX Report\bin\Debug\Microsoft Dynamics AX Report.XML

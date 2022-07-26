@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>All Reports</name>
+    </assembly>
+    <members>
+        <member name="T:NewVersion.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:NewVersion.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:NewVersion.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="F:NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.Report.Sales_Sumary_Report.frmSalesSumary.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:NewVersion.Material.frmMaterial.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Material.frmMaterial.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.Material.frmMaterial.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:NewVersion.Report.QuickSales_Report.frmQuickSales.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Report.QuickSales_Report.frmQuickSales.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.Report.QuickSales_Report.frmQuickSales.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:NewVersion.Report.MaterialReport.frmMaterialReport.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Report.MaterialReport.frmMaterialReport.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.Report.MaterialReport.frmMaterialReport.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:NewVersion.Report.Sales_Return.frmSalesReturn.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Report.Sales_Return.frmSalesReturn.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.Report.Sales_Return.frmSalesReturn.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:NewVersion.Report.InvioceReport.frmInvoiceReport.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Report.InvioceReport.frmInvoiceReport.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.Report.InvioceReport.frmInvoiceReport.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:NewVersion.FrmMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:NewVersion.FrmMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:NewVersion.FrmMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:NewVersion.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,166 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace NewVersion.Report.ReceiveReport
+{
+    class ReceiveOBJ
+    {
+
+
+        public string strFactory;
+        private int strShipmentLoc;
+        private string strCustGroup;
+        private string strSection;
+        private string numbersequence;
+        private string strNumberSequenceGroup;
+        private DateTime dt1;
+        private DateTime dt2;
+        private string strReceiveNo1;
+        private string strReceiveNo2;
+
+
+        public string Factory
+        {
+            get
+            {
+                return strFactory;
+            }
+            set
+            {
+                strFactory = value;
+            }
+        }
+
+        public string Section
+        {
+            get
+            {
+                return strSection;
+            }
+            set
+            {
+                strSection = value;
+            }
+        }
+
+
+        public string ReceiveNoFrom
+        {
+            get
+            {
+                return strReceiveNo1;
+            }
+            set
+            {
+                strReceiveNo1 = value;
+            }
+        }
+
+
+
+        public string ReceiveNoTo
+        {
+            get
+            {
+                return strReceiveNo2;
+            }
+            set
+            {
+                strReceiveNo2 = value;
+            }
+        }
+
+
+        public int ShipmentLocation
+        {
+            get
+            {
+                return strShipmentLoc;
+            }
+            set
+            {
+                strShipmentLoc = value;
+            }
+        }
+
+
+        public string CustomerGroup
+        {
+            get
+            {
+                return strCustGroup;
+            }
+            set
+            {
+                strCustGroup = value;
+            }
+
+        }
+
+        public string NumberSequenceGroup
+        {
+            get
+            {
+                return strNumberSequenceGroup;
+            }
+            set
+            {
+                strNumberSequenceGroup = value;
+            }
+
+        }
+
+
+        public string numbersequence2
+        {
+            get
+            {
+                return numbersequence;
+
+            }
+            set
+            {
+
+                numbersequence = value;
+
+            }
+        }
+
+
+
+        public DateTime DateFrom
+        {
+            get
+            {
+                return dt1;
+            }
+            set
+            {
+                dt1 = value;
+            }
+        }
+
+
+        public DateTime DateTo
+        {
+            get
+            {
+                return dt2;
+            }
+            set
+            {
+                dt2 = value;
+            }
+
+        }
+
+
+
+
+
+
+
+    }
+}
